@@ -53,3 +53,7 @@ Just use the `pagination.js` file in combination with jQuery.
 
 Vinit Kumar [@vinitkumar](http://github.com/vinitkumar)
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/vinitkumar/pagination.js/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
