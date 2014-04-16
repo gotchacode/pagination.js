@@ -1,0 +1,27 @@
+{
+  "name": "pagination",
+  "title": "Jquery Pagination plugin",
+  "description": "jQuery pagination plugin that sucks less.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/vinitkumar/pagination.js",
+  "author": {
+    "name": "vinit Kumar",
+    "email": "vinit.kumar@changer.nl",
+    "url": "http://vinitkumar.me"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vinitkumar/pagination.js.git"
+  },
+  "bugs": "https://github.com/vinitkumar/pagination.js/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/vinitkumar/pagination.js/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
