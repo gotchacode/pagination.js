@@ -5,8 +5,8 @@ jQuery pagination plugin that sucks less.
 ## Getting Started
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/vinitkumar/pagination.js/master/dist/pagination.min.js
-[max]: https://raw.github.com/vinitkumar/pagination.js/master/dist/pagination.js
+[min]: https://raw.githubusercontent.com/vinitkumar/pagination.js/master/dist/jquery.pagination.min.js
+[max]: https://raw.githubusercontent.com/vinitkumar/pagination.js/master/dist/jquery.pagination.js
 
 In your web page:
 
