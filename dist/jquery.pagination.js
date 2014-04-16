@@ -1,11 +1,6 @@
-/*
- * pagination
- * https://github.com/vinitkumar/pagination.js
- *
- * Copyright (c) 2014 vinit Kumar
- * Licensed under the MIT license.
- */
-
+/*! Jquery Pagination plugin - v0.1.0 - 2014-04-16
+* https://github.com/vinitkumar/pagination.js
+* Copyright (c) 2014 vinit Kumar; Licensed MIT */
 (function($) {
 
   $.fn.paginate = function(options) {

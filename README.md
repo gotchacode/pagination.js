@@ -10,6 +10,10 @@ Download the [production version][min] or the [development version][max].
 
 In your web page:
 
+Here `{{ page_obj.number }}` is being inserted from a Django template. You can think 
+of similar ways to use the plugin when coupled with a RESTful backend.
+
+
 ```html
 <script src="jquery.js"></script>
 <script src="dist/pagination.min.js"></script>
