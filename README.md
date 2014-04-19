@@ -20,13 +20,13 @@ of similar ways to use the plugin when coupled with a RESTful backend.
 <script>
 $(function() {
   var i = {{ page_obj.number }}+1;
-  var total_pages = {{ page_obj.paginator.num_pages }};
+  var totalPages = {{ page_obj.paginator.num_pages }};
   $('.infinite-scroll').paginate({
     url: function(el) {
       return '?page=' + i;
     },
     onrequest: function() {
-        if (i < total_pages){
+        if (i < totalPages){
             $(this).append('<div class="loading"></div>');
         };
     },
@@ -35,8 +35,8 @@ $(function() {
 available
       $('div.loading').remove();
     },
-    load_more: function() {
-        if (i > total_pages) {
+    loadMore: function() {
+        if (i > totalPages) {
             return false;
         } else {
             return true;
