@@ -1,4 +1,4 @@
-/*! Jquery Pagination plugin - v0.1.0 - 2014-04-19
+/*! Jquery Pagination plugin - v0.1.0 - 2014-05-08
 * https://github.com/vinitkumar/pagination.js
 * Copyright (c) 2014 vinit Kumar; Licensed MIT */
 (function($) {
