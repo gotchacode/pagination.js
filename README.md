@@ -52,8 +52,8 @@ _(Coming soon)_
 
 ## Contributors
 
-Pratik Vyas (@pdvyas)
-Vinit Kumar (@vinitkumar)
+- Pratik Vyas ([@pdvyas](http://github.com/pdvyas))
+- Vinit Kumar ([@vinitkumar](http://github.com/vinitkumar))
 
 ## Release History
 _(Nothing yet)_
