@@ -2,7 +2,7 @@
  * pagination
  * https://github.com/vinitkumar/pagination.js
  *
- * Copyright (c) 2014 vinit Kumar
+ * Copyright (c) 2014 vinit Kumar, Pratik Vyas
  * Licensed under the MIT license.
  */
 
